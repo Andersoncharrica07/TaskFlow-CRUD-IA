@@ -7,12 +7,18 @@ TaskFlow es una aplicación web moderna de gestión de tareas diarias que permit
 * **HTML5:** Estructura semántica de la interfaz de usuario.
 * **CSS3:** Diseño responsivo y moderno basado en variables y flexbox.
 * **JavaScript (ES6+):** Lógica del CRUD, manipulación del DOM y funciones flecha.
-* **Web Storage API (LocalStorage):** Persistencia local de los datos en el navegador del usuario (sin base de datos tradicional).
+* **Web Storage API (LocalStorage):** Persistencia local de los datos en el navegador del usuario.
 
 ## Instrucciones para Ejecutar el Proyecto
 1. Clona este repositorio o descarga los archivos fuente.
-2. Abre el archivo `index.html` directamente en tu navegador web de preferencia (Chrome, Edge, Firefox, etc.) o utilízalo mediante la extensión *Live Server* de VS Code.
-3. ¡Comienza a gestionar tus tareas! Los datos persistirán incluso si recargas la página.
+2. Abre el archivo `index.html` directamente en tu navegador web de preferencia.
+
+## Capturas de Pantalla (Evidencia del Sistema)
+Aquí se muestra el estado final de la interfaz de usuario con la persistencia de datos activa y el diseño responsivo aplicado:
+
+![Interfaz del Proyecto Funcionando](evidencia.png.png)
+
+---
 
 ## Listado de Prompts Utilizados y Explicación
 
